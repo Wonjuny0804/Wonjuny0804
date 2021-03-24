@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <p align="center">I first started developing when I entered University as a CS major. While those times I found my passion into Front-End development.</p>
 
 <h3 align="center">Values</h3>
-<p align="center">User Oriented Development | Reusability and Readable Code | Accessibility</p>
+<p align="center">💕User Oriented Development | ♻️Reusability and Readable Code |😊 Accessibility</p>
 
