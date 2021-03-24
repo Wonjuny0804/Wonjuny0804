@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Wonjun%20Jang&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20EveryOne&fontSize=90)
 <!--
 **Wonjuny0804/Wonjuny0804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <h1>NeatCoder─@mint.coneflower</h1>
+ <h1>WonjunJang─@mint.coneflower</h1>
 <p align="center">👋Creating a memorable user experience is what I value the most. </p>
 <p align="center">I first started developing when I entered University as a CS major. While those times I found my passion into Front-End development.</p>
 
