@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# NeatCoder─@mint.coneflower
+Creating a memorable user experience is what I value the most. I first started developing when I entered University as a CS major. While those times I found my passion into Front-End development. 
 
-### Front-End Engineer
-
+### Values
+- User Oriented Development
+- Reusability and Readable Code
+- Accessibility
