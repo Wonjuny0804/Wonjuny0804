@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waviing&color=auto&height=300&section=header&text=Welcome%20Everyone&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20Everyone&fontSize=90" />
 
  <h1>WonjunJang─<a href="https://www.instagram.com/mint.coneflower/">@mint.coneflower</a></h1>
 <p align="center">👋Creating a memorable user experience is what I value the most. </p>
