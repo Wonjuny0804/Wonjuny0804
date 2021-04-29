@@ -19,5 +19,3 @@
  <img src="http://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
  <img src="http://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wonjuny0804&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
