@@ -12,10 +12,9 @@
  <img src="http://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=javascript&logoColor=white" />
  <img src="http://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />
  <img src="http://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
- <img src="http://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" />
+ <img src="http://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" /> 
+ <img src="http://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" />
+
 </p>
 <p align="center">
- <img src="http://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" />
- <img src="http://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
- <img src="http://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
 </p>
