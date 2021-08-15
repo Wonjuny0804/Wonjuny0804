@@ -1,15 +1,14 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20Everyone&fontSize=90" /> -->
 
  <h1>WonjunJang─<a href="https://www.instagram.com/mint.coneflower/">@mint.coneflower</a></h1>
-<p>👋Creating a memorable user experience is what I value the most.</p>
-<p>I first started developing in University as a CS major.</p>
-<p> While those times I found my passion into Frontend development.</p>
+<p>👋Creating a memorable user experience is what I value the most. I first started developing in University as a CS major. <br />While those times I found my passion into Frontend development.</p>
+
 
 <h3>Values</h3>
 
-- 💕User Oriented Development
-- ♻️Reusability and Readable Code
-- 😊 Accessibility
+- User Oriented Development
+- Reusable and Readable Code
+- Accessibility
 
 <h3>Tech Stack</h3>
 <p>
