@@ -1,5 +1,5 @@
 
-<h1>Wonjun Jang─<a href="https://www.instagram.com/mint.coneflower/">@mint.coneflower</a></h1>
+<h1>Wonjun Jang─</h1>
 <p>👋 Creating a memorable user experience. </p>
 
 <h3>Recipe</h3>
