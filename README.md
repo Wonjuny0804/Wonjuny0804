@@ -1,6 +1,6 @@
 
 <h1>Wonjun Jang─</h1>
-<p>👋 Creating a memorable user experience. </p>
+<p>👋 Born Builder, Engineer, people of science. </p>
 
 <h3>Recipe</h3>
 <p>
